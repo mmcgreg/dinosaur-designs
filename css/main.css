@@ -8,14 +8,17 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 img {
   width: 100%;
 }
+
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
 }
+
 figcaption {
   font-size: .8rem;
   font-style: italic;
@@ -25,7 +28,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
 }
 
 nav ol {
@@ -41,6 +44,7 @@ nav a:hover {
   color: #b42885;
   text-decoration: underline;
 }
- .intro {
-   font-size: 1rem;
- }
+
+.intro {
+  font-size: 1rem;
+}
